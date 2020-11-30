@@ -4,5 +4,11 @@
     "url": "https://github.com/gadenbuie/cleanrmd",
     "via": ["notestar"],
     "from": "notestar"
+  },
+  {
+    "package": "printy",
+    "url": "https://github.com/tjmahr/printy",
+    "via": ["iccbot"],
+    "from": "iccbot"
   }
 ]
