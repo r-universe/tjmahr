@@ -38,3 +38,8 @@
 	url = https://github.com/tjmahr/iccbot
 	shallow = true
 	registered = true
+[submodule "cleanrmd"]
+	path = cleanrmd
+	url = https://github.com/gadenbuie/cleanrmd
+	shallow = true
+	registered = false
