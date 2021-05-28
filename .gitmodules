@@ -1,5 +1,40 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/tjmahr/universe
 	shallow = true
 	branch = HEAD
+[submodule "WrapRmd"]
+	path = WrapRmd
+	url = https://github.com/tjmahr/WrapRmd
+	shallow = true
+	registered = true
+[submodule "printy"]
+	path = printy
+	url = https://github.com/tjmahr/printy
+	shallow = true
+	registered = true
+[submodule "notestar"]
+	path = notestar
+	url = https://github.com/tjmahr/notestar
+	shallow = true
+	registered = true
+[submodule "tjmisc"]
+	path = tjmisc
+	url = https://github.com/tjmahr/tjmisc
+	shallow = true
+	registered = true
+[submodule "rprime"]
+	path = rprime
+	url = https://github.com/tjmahr/rprime
+	shallow = true
+	registered = true
+[submodule "readtextgrid"]
+	path = readtextgrid
+	url = https://github.com/tjmahr/readtextgrid
+	shallow = true
+	registered = true
+[submodule "iccbot"]
+	path = iccbot
+	url = https://github.com/tjmahr/iccbot
+	shallow = true
+	registered = true

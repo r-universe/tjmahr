@@ -1,0 +1,25 @@
+[
+  {
+    "package": "WrapRmd"
+  },
+  {
+    "package": "printy"
+  },
+  {
+    "package": "notestar"
+  },
+  {
+    "package": "tjmisc"
+  },
+  {
+    "package": "rprime",
+    "oncran": true
+  },
+  {
+    "package": "readtextgrid",
+    "oncran": true
+  },
+  {
+    "package": "iccbot"
+  }
+]
