@@ -21,5 +21,12 @@
   },
   {
     "package": "iccbot"
+  },
+  {
+    "package": "polypoly",
+    "oncran": true
+  },
+  {
+    "package": "littlelisteners"
   }
 ]

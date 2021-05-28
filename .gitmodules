@@ -38,6 +38,16 @@
 	url = https://github.com/tjmahr/iccbot
 	shallow = true
 	registered = true
+[submodule "polypoly"]
+	path = polypoly
+	url = https://github.com/tjmahr/polypoly
+	shallow = true
+	registered = true
+[submodule "littlelisteners"]
+	path = littlelisteners
+	url = https://github.com/tjmahr/littlelisteners
+	shallow = true
+	registered = true
 [submodule "cleanrmd"]
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
