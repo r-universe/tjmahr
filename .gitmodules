@@ -48,6 +48,11 @@
 	url = https://github.com/tjmahr/littlelisteners
 	shallow = true
 	registered = true
+[submodule "wisclabmisc"]
+	path = wisclabmisc
+	url = https://github.com/tjmahr/wisclabmisc
+	shallow = true
+	registered = true
 [submodule "cleanrmd"]
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
