@@ -13,6 +13,11 @@
 	url = https://github.com/tjmahr/printy
 	shallow = true
 	registered = true
+[submodule "notestar"]
+	path = notestar
+	url = https://github.com/tjmahr/notestar
+	shallow = true
+	registered = true
 [submodule "tjmisc"]
 	path = tjmisc
 	url = https://github.com/tjmahr/tjmisc
@@ -26,6 +31,11 @@
 [submodule "readtextgrid"]
 	path = readtextgrid
 	url = https://github.com/tjmahr/readtextgrid
+	shallow = true
+	registered = true
+[submodule "iccbot"]
+	path = iccbot
+	url = https://github.com/tjmahr/iccbot
 	shallow = true
 	registered = true
 [submodule "polypoly"]
