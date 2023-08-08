@@ -1,65 +1,41 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/tjmahr/universe
-	shallow = true
 	branch = HEAD
 [submodule "WrapRmd"]
 	path = WrapRmd
 	url = https://github.com/tjmahr/WrapRmd
-	shallow = true
-	registered = true
-[submodule "printy"]
-	path = printy
-	url = https://github.com/tjmahr/printy
-	shallow = true
-	registered = true
-[submodule "notestar"]
-	path = notestar
-	url = https://github.com/tjmahr/notestar
-	shallow = true
-	registered = true
-[submodule "tjmisc"]
-	path = tjmisc
-	url = https://github.com/tjmahr/tjmisc
-	shallow = true
-	registered = true
-[submodule "rprime"]
-	path = rprime
-	url = https://github.com/tjmahr/rprime
-	shallow = true
-	registered = true
-[submodule "readtextgrid"]
-	path = readtextgrid
-	url = https://github.com/tjmahr/readtextgrid
-	shallow = true
-	registered = true
-[submodule "iccbot"]
-	path = iccbot
-	url = https://github.com/tjmahr/iccbot
-	shallow = true
-	registered = true
-[submodule "polypoly"]
-	path = polypoly
-	url = https://github.com/tjmahr/polypoly
-	shallow = true
-	registered = true
-[submodule "littlelisteners"]
-	path = littlelisteners
-	url = https://github.com/tjmahr/littlelisteners
-	shallow = true
-	registered = true
-[submodule "wisclabmisc"]
-	path = wisclabmisc
-	url = https://github.com/tjmahr/wisclabmisc
-	shallow = true
-	registered = true
-[submodule "solarizeddocx"]
-	path = solarizeddocx
-	url = https://github.com/tjmahr/solarizeddocx
-	shallow = true
-	registered = true
 [submodule "cleanrmd"]
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
-	shallow = true
 	registered = false
+[submodule "iccbot"]
+	path = iccbot
+	url = https://github.com/tjmahr/iccbot
+[submodule "littlelisteners"]
+	path = littlelisteners
+	url = https://github.com/tjmahr/littlelisteners
+[submodule "notestar"]
+	path = notestar
+	url = https://github.com/tjmahr/notestar
+[submodule "polypoly"]
+	path = polypoly
+	url = https://github.com/tjmahr/polypoly
+[submodule "printy"]
+	path = printy
+	url = https://github.com/tjmahr/printy
+[submodule "readtextgrid"]
+	path = readtextgrid
+	url = https://github.com/tjmahr/readtextgrid
+[submodule "rprime"]
+	path = rprime
+	url = https://github.com/tjmahr/rprime
+[submodule "solarizeddocx"]
+	path = solarizeddocx
+	url = https://github.com/tjmahr/solarizeddocx
+[submodule "tjmisc"]
+	path = tjmisc
+	url = https://github.com/tjmahr/tjmisc
+[submodule "wisclabmisc"]
+	path = wisclabmisc
+	url = https://github.com/tjmahr/wisclabmisc
