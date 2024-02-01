@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/tjmahr/universe
+	url = https://github.com/tjmahr/tjmahr.r-universe.dev
 	branch = HEAD
 [submodule "WrapRmd"]
 	path = WrapRmd
@@ -9,6 +9,9 @@
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
 	registered = false
+[submodule "huttenlocher1991"]
+	path = huttenlocher1991
+	url = https://github.com/tjmahr/huttenlocher1991
 [submodule "iccbot"]
 	path = iccbot
 	url = https://github.com/tjmahr/iccbot
